@@ -34,7 +34,7 @@ node app.js
 
 Open [http://localhost:3000](http://localhost:3000)
 
-![gif](screecord.gif)
+![gif](https://github.com/fajaragngn/tweetToBlog/screecord.gif)
 
 
 
