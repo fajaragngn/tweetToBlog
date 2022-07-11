@@ -19,7 +19,7 @@ https://www.mongodb.com/try/download/community?tck=docs_server
 ```bash
 1. run mongo
 2. node app.js
-3. create env file based on .env example (Get values from [developer twitter app](https://developer.twitter.com/en) )
+3. create env file based on .env example (Get values from (developer twitter app)[https://developer.twitter.com/en] )
 ```
 
 ## Usecase
