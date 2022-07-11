@@ -8,6 +8,6 @@ const UserSchema = new Schema({
     username: String,
     description: String,
     profile_image_url: String
-}, { timestamps: true })
+}, { timestamps: true }, {immutable: true})
 
 module.exports = mongoose.model('User', UserSchema)
