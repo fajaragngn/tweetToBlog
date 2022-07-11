@@ -34,7 +34,7 @@ node app.js
 
 Open [http://localhost:3000](http://localhost:3000)
 
-![gif](https://github.com/fajaragngn/tweetToBlog/blob/master/demo.gif)
+![gif](https://github.com/fajaragngn/tweetToBlog/blob/master/demo2.gif)
 
 
 
