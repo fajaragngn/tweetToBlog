@@ -7,11 +7,14 @@ Ubah tweet menjadi posting blog.
 
 ## Getting Started
 ```bash
-1. npm install && npm i dotenv@8.2.0 && npm i ejs@3.1.6 && npm i express@4.17.1 && npm i mongoose@5.12.7 && npm i needle@2.6.0 && npm i slugify@1.5.0
-2. brew install mongodb-community@5.0
-if windows
-https://www.mongodb.com/try/download/community?tck=docs_server
-3. brew services start mongodb-community@5.0
+npm install && npm i dotenv@8.2.0 && npm i ejs@3.1.6 && npm i express@4.17.1 && npm i mongoose@5.12.7 && npm i needle@2.6.0 && npm i slugify@1.5.0
+```
+```bash
+brew install mongodb-community@5.0
+```
+if windows [Download](https://www.mongodb.com/try/download/community?tck=docs_server)
+```bash
+brew services start mongodb-community@5.0
 ```
 
 ## Usage
@@ -19,8 +22,8 @@ https://www.mongodb.com/try/download/community?tck=docs_server
 ```bash
 1. run mongo
 2. node app.js
-3. create env file based on .env example, Get values from [Developer Twitter](https://developer.twitter.com/en)
 ```
+create env file based on .env example, Get values from [Developer Twitter](https://developer.twitter.com/en)
 
 ## Usecase
 
