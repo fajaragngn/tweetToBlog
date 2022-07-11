@@ -19,11 +19,17 @@ brew services start mongodb-community@5.0
 
 ## Usage
 
+create .env file based on .env example, Get values from [Developer Twitter](https://developer.twitter.com/en)
 ```bash
-1. run mongo
-2. node app.js
+mongo
 ```
-create env file based on .env example, Get values from [Developer Twitter](https://developer.twitter.com/en)
+```bash
+node app.js
+```
+```bash
+Open http://localhost:3000
+```
+
 
 ## Usecase
 
