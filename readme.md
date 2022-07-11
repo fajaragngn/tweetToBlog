@@ -7,6 +7,10 @@ Ubah tweet menjadi posting blog.
 
 ## Getting Started
 ```bash
+git clone https://github.com/fajaragngn/tweetToBlog
+cd tweetToBlog
+```
+```bash
 npm install && npm i dotenv@8.2.0 && npm i ejs@3.1.6 && npm i express@4.17.1 && npm i mongoose@5.12.7 && npm i needle@2.6.0 && npm i slugify@1.5.0
 ```
 ```bash
@@ -26,9 +30,9 @@ mongo
 ```bash
 node app.js
 ```
-```bash
-Open http://localhost:3000
-```
+
+Open [http://localhost:3000](http://localhost:3000)
+
 
 
 ## Usecase
