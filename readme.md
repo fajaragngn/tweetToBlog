@@ -1,9 +1,10 @@
-# Tweet To Blog [Node.js]
+# Tweet To Blog
+
+NodeJS, Express dan Mongodb(Mongoose)
 
 Ubah tweet menjadi posting blog.
 - Ini akan menyaring "retweet", "balas ke orang lain", dan "hanya tautan/media".
 - Thread akan berubah menjadi single post
-- Techstack: NodeJS, Express dan Mongodb (Mongoose) sebagai database
 
 ## Getting Started
 ```bash
