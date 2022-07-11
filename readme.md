@@ -34,6 +34,8 @@ node app.js
 
 Open [http://localhost:3000](http://localhost:3000)
 
+![gif](screecord.gif)
+
 
 
 ## Usecase
